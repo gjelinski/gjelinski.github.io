@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About Graham on Graham Jelinski | Portfolio</title>
+    <link>http://grahamj.co/about/</link>
+    <description>Recent content in About Graham on Graham Jelinski | Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Jul 2018 18:19:33 +0600</lastBuildDate>
+    
+	<atom:link href="http://grahamj.co/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
