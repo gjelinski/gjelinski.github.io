@@ -6,22 +6,18 @@
     <description>Recent content in Take a look at some of the &lt;span&gt;projects&lt;/span&gt; I&#39;ve worked on. on Graham Jelinski | Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Dec 2019 16:48:28 +0600</lastBuildDate>
-    
-	<atom:link href="https://grahamj.co/portfolio/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 23 Dec 2019 16:48:28 +0600</lastBuildDate><atom:link href="https://grahamj.co/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Sales and MarCom Intelligence</title>
+      <title>Sales and MarComm Intelligence</title>
       <link>https://grahamj.co/portfolio/sami/</link>
       <pubDate>Wed, 16 Mar 2022 20:32:19 -0600</pubDate>
       
       <guid>https://grahamj.co/portfolio/sami/</guid>
-      <description>This project started in May 2020 and initial release is slated for June 2022. Sales and MarCom Intelligence (SAMI) is a significant enterprise application with an intent to merge in features from several other disparate systems into one umbrella application.</description>
+      <description>This project started in May 2020 and the company-wide release is slated for November 2023. Sales and MarCom Intelligence (SAMI) is a significant enterprise application with an intent to merge in features from several other systems into one umbrella application.</description>
     </item>
     
     <item>
-      <title>MOBILE TIME ENTRY</title>
+      <title>Mobile Time Entry</title>
       <link>https://grahamj.co/portfolio/mobile-time-entry/</link>
       <pubDate>Thu, 10 Sep 2020 10:39:00 -0600</pubDate>
       
@@ -30,12 +26,12 @@
     </item>
     
     <item>
-      <title>STAFF OUTLOOK</title>
+      <title>Staff Planning</title>
       <link>https://grahamj.co/portfolio/staff-outlook/</link>
       <pubDate>Thu, 10 Sep 2020 10:39:00 -0600</pubDate>
       
       <guid>https://grahamj.co/portfolio/staff-outlook/</guid>
-      <description>This project started in January 2019 and is still ongoing. My role on this project includes both user interface design and front-end development; I also provided the logo for the branding.</description>
+      <description>This project started in January 2019 and wrapped up in 2021. My role on this project included both user interface design and front-end development; I also provided the logo for the branding.</description>
     </item>
     
   </channel>
